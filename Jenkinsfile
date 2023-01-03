@@ -15,5 +15,10 @@ pipeline{
           sh 'mvn clean package'  
         }
       }
+<<<<<<< HEAD
   }
 }  
+=======
+   }
+}  
+>>>>>>> 9484bc001fd74e506c7c495f6ec39baeb59cb301
